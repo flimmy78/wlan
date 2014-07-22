@@ -1,0 +1,55 @@
+10
+
+dir
+1671
+svn+ssh://qbuilder@192.168.1.249/opt/data/svn/ver16/public/package/aquila/wlan
+svn+ssh://qbuilder@192.168.1.249/opt/data/svn/ver16
+
+
+
+2014-07-01T16:34:43.073355Z
+1671
+qbuilder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33d0c5a7-df58-408e-8771-2272a9df26fa
+
+htc
+dir
+
+os
+dir
+
+include
+dir
+
+hal
+dir
+
+umac
+dir
+
+asf
+dir
+
+adf
+dir
+
+lmac
+dir
+
+wow
+dir
+

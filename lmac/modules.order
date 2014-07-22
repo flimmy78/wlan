@@ -1,0 +1,4 @@
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/ath_dev/ath_dev.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/ratectrl/ath_rate_atheros.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/dfs/ath_dfs.ko

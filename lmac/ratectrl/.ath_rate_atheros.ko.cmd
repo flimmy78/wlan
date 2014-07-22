@@ -1,0 +1,1 @@
+cmd_/home/jorney/work/new/wlan/os/linux/../../lmac/ratectrl/ath_rate_atheros.ko := mips-linux-uclibc-ld -r  -m elf32btsmip  --build-id -o /home/jorney/work/new/wlan/os/linux/../../lmac/ratectrl/ath_rate_atheros.ko /home/jorney/work/new/wlan/os/linux/../../lmac/ratectrl/ath_rate_atheros.o /home/jorney/work/new/wlan/os/linux/../../lmac/ratectrl/ath_rate_atheros.mod.o

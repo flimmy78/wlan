@@ -1,0 +1,1 @@
+cmd_/home/jorney/work/new/wlan/os/linux/../../asf/asf.o := mips-linux-uclibc-ld  -m elf32btsmip   -r -o /home/jorney/work/new/wlan/os/linux/../../asf/asf.o /home/jorney/work/new/wlan/os/linux/../../asf/asf_print.o /home/jorney/work/new/wlan/os/linux/../../asf/asf_amem.o /home/jorney/work/new/wlan/os/linux/../../asf/linux/asf_module.o 

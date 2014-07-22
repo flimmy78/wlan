@@ -1,0 +1,8 @@
+kernel//home/jorney/work/new/wlan/os/linux/../../adf/adf.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../asf/asf.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/ath_dev/ath_dev.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/ratectrl/ath_rate_atheros.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../lmac/dfs/ath_dfs.ko
+kernel//home/jorney/work/new/wlan/os/linux/ath_hal/ath_hal.ko
+kernel//home/jorney/work/new/wlan/os/linux/../../umac/umac.ko

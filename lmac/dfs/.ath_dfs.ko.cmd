@@ -1,0 +1,1 @@
+cmd_/home/jorney/work/new/wlan/os/linux/../../lmac/dfs/ath_dfs.ko := mips-linux-uclibc-ld -r  -m elf32btsmip  --build-id -o /home/jorney/work/new/wlan/os/linux/../../lmac/dfs/ath_dfs.ko /home/jorney/work/new/wlan/os/linux/../../lmac/dfs/ath_dfs.o /home/jorney/work/new/wlan/os/linux/../../lmac/dfs/ath_dfs.mod.o

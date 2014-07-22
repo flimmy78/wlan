@@ -1,0 +1,1 @@
+cmd_/home/jorney/work/new/wlan/os/linux/../../adf/adf.ko := mips-linux-uclibc-ld -r  -m elf32btsmip  --build-id -o /home/jorney/work/new/wlan/os/linux/../../adf/adf.ko /home/jorney/work/new/wlan/os/linux/../../adf/adf.o /home/jorney/work/new/wlan/os/linux/../../adf/adf.mod.o

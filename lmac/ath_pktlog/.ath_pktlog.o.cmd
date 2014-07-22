@@ -1,0 +1,1 @@
+cmd_/home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.o := mips-linux-uclibc-ld  -m elf32btsmip   -r -o /home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.o /home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/pktlog.o /home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/linux.o 

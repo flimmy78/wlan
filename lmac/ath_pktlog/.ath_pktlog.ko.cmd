@@ -1,0 +1,1 @@
+cmd_/home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.ko := mips-linux-uclibc-ld -r  -m elf32btsmip  --build-id -o /home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.ko /home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.o /home/jorney/work/new/wlan/os/linux/../../lmac/ath_pktlog/ath_pktlog.mod.o
